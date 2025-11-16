@@ -71,3 +71,14 @@ The goal of this project was to gain practical experience with process creation,
 
 - Print more descriptive errors using `perror()`.
 - Return useful exit codes for built-ins.
+
+
+## References & Study Materials
+
+<!-- Add your learning resources here -->
+
+* [What does "static" mean in C?](https://stackoverflow.com/questions/572547/what-does-static-mean-in-c?noredirect=1&lq=1)
+* [How do I trim leading/trailing whitespace in a standard way?](https://stackoverflow.com/questions/122616/how-do-i-trim-leading-trailing-whitespace-in-a-standard-way)
+* [Why is cd not a program?](https://unix.stackexchange.com/questions/38808/why-is-cd-not-a-program)
+* [Why Process/program becomes zombie?](https://unix.stackexchange.com/questions/105998/why-process-program-becomes-zombie)
+
